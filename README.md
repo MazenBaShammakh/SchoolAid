@@ -35,6 +35,7 @@ The following are the classes and controllers used in the project:
 * TypeController 
 * MyApplicationController 
 * SchoolController
+
 For more info, check [the UML diagrams.](https://lucid.app/lucidchart/b9ea4ef9-468b-4215-84d9-9b9e53d7550f/view).
 
 ## Contributors
